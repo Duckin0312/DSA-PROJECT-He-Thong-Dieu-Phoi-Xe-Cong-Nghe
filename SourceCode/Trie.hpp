@@ -4,6 +4,7 @@
 #include <vector>
 #include <cmath>
 #include <unordered_map>
+#include <functional>
 
 struct Location{
     std::string name;
@@ -26,20 +27,24 @@ class AutoComplete{
     private:
         TrieNode* root;
         const int MAXSUGGESTLOCATION = 5;
-        
+
+        void FreeNode(TrieNode* node);
+        void Traverse(const TrieNode* node, std::string& prefix,
+                      const std::function<void(const std::string&, const TrieNode&)>& visit) const;
+
     public:
-        //Constructor
-        AutoComplete(){
-            root = new TrieNode;
-        }
-        
-        //Convert from vietnamese to english alphabet
+        AutoComplete(){ root = new TrieNode; }
+        ~AutoComplete(){ FreeNode(root); }
+        AutoComplete(const AutoComplete&) = delete;
+        AutoComplete& operator=(const AutoComplete&) = delete;
+
         Location ConvertFixed(Location location);
-
-        //Update suggest locations from each node in Trie
         void UpdateSuggestLocation(TrieNode* node, const Location& location);
-
         void InsertLocation(const Location& location);
-
         std::vector<Location> SearchPrefix(std::string prefix);
+
+        // Mới
+        void Clear();
+        void ForEachNode(const std::function<void(const std::string&, const TrieNode&)>& visit) const;
+        int GetMaxSuggest() const { return MAXSUGGESTLOCATION; }
 };

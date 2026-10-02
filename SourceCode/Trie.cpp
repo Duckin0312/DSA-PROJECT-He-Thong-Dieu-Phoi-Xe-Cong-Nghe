@@ -19,7 +19,7 @@ void AutoComplete::UpdateSuggestLocation(TrieNode* node, const Location& locatio
 
     auto calculateScore = [](const Location& location){
         double distance = std::hypot(userPosX - location.posX, userPosY - location.posY);
-        return 0.5*location.population - 0.5*distance;
+        return 0.2*location.population - 0.8*distance;
     };
 
     //Sort suggest locations by population and dictionary 
@@ -81,4 +81,30 @@ vector<Location> AutoComplete::SearchPrefix(std::string prefix){
     }
 
     return current->topSuggestLocation;
+}
+
+void AutoComplete::FreeNode(TrieNode* node){
+    if(!node) return;
+    for(auto& item : node->children) FreeNode(item.second);
+    delete node;
+}
+
+void AutoComplete::Clear(){
+    FreeNode(root);
+    root = new TrieNode;
+}
+
+void AutoComplete::Traverse(const TrieNode* node, std::string& prefix,
+                            const std::function<void(const std::string&, const TrieNode&)>& visit) const{
+    visit(prefix, *node);
+    for(const auto& item : node->children){
+        prefix.push_back(item.first);
+        Traverse(item.second, prefix, visit);
+        prefix.pop_back();
+    }
+}
+
+void AutoComplete::ForEachNode(const std::function<void(const std::string&, const TrieNode&)>& visit) const{
+    std::string prefix;
+    Traverse(root, prefix, visit);
 }

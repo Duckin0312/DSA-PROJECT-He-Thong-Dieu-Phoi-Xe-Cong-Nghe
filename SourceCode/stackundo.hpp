@@ -1,6 +1,7 @@
 #pragma once
 #include <string>
 #include <stack>
+#include <chrono>
 
 enum State {
     TIM_XE,
@@ -27,6 +28,9 @@ private:
     std::stack<Trip> tripHistory; 
     Operation* operation;
 
+    std::chrono::steady_clock::time_point cancelStart;  
+    static constexpr int CANCEL_WINDOW_MS = 5000;      
+
 public:
     TripManager(const std::string& driverID, const std::string& tripID, Operation* operation);
 
@@ -39,4 +43,12 @@ public:
     void clearTripData();
 
     void updateDriverStats(const std::string& driverID, bool completed, float tripRating = 0.0f);
+
+    bool requestCancel();
+    
+    bool undoCancel();              
+
+    bool finalizeCancelIfExpired();    
+    
+    int cancelRemainingMs() const;     
 };
