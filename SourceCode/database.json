@@ -1,1 +1,2602 @@
-[]
+[
+    {
+        "id": "D000001",
+        "licensePlate": "92X8-57091",
+        "name": "Ho Thanh A",
+        "performance": {
+            "acceptanceRate": 37.58,
+            "acceptedTrips": 62,
+            "cancellationThreshold": 35.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 2,
+            "completedTrips": 17,
+            "offeredTrips": 165,
+            "rating": 3.4
+        },
+        "phone": "0354502929",
+        "status": {
+            "currentStatus": 2,
+            "currentTripID": "T222424",
+            "directionX": -0.991,
+            "directionY": -0.136,
+            "freeTime": 0,
+            "x": 35.5,
+            "y": 25.8
+        },
+        "vehicleType": 1
+    },
+    {
+        "id": "D000002",
+        "licensePlate": "65K-67715",
+        "name": "Ly Duc Cuong",
+        "performance": {
+            "acceptanceRate": 74.8,
+            "acceptedTrips": 92,
+            "cancellationThreshold": 20.0,
+            "cancellationWarned": true,
+            "cancelledTrips": 13,
+            "completedTrips": 62,
+            "offeredTrips": 123,
+            "rating": 3.4
+        },
+        "phone": "0881436347",
+        "status": {
+            "currentStatus": 1,
+            "currentTripID": "T725392",
+            "directionX": -0.996,
+            "directionY": -0.092,
+            "freeTime": 0,
+            "x": 24.3,
+            "y": 66.4
+        },
+        "vehicleType": 1
+    },
+    {
+        "id": "D000003",
+        "licensePlate": "58X9-55771",
+        "name": "Vu Thi Hai",
+        "performance": {
+            "acceptanceRate": 99.44,
+            "acceptedTrips": 179,
+            "cancellationThreshold": 25.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 29,
+            "completedTrips": 69,
+            "offeredTrips": 180,
+            "rating": 4.5
+        },
+        "phone": "0345549757",
+        "status": {
+            "currentStatus": 0,
+            "currentTripID": "",
+            "directionX": 0.0,
+            "directionY": 0.0,
+            "freeTime": 3121,
+            "x": 69.0,
+            "y": 19.2
+        },
+        "vehicleType": 2
+    },
+    {
+        "id": "D000004",
+        "licensePlate": "58K9-13176",
+        "name": "Hoang Hoang B",
+        "performance": {
+            "acceptanceRate": 39.66,
+            "acceptedTrips": 46,
+            "cancellationThreshold": 20.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 2,
+            "completedTrips": 19,
+            "offeredTrips": 116,
+            "rating": 4.4
+        },
+        "phone": "0884970190",
+        "status": {
+            "currentStatus": 0,
+            "currentTripID": "",
+            "directionX": 0.0,
+            "directionY": 0.0,
+            "freeTime": 517,
+            "x": 63.8,
+            "y": 75.3
+        },
+        "vehicleType": 0
+    },
+    {
+        "id": "D000005",
+        "licensePlate": "29Y5-62746",
+        "name": "Le Ngoc Long",
+        "performance": {
+            "acceptanceRate": 6.38,
+            "acceptedTrips": 6,
+            "cancellationThreshold": 20.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 1,
+            "completedTrips": 3,
+            "offeredTrips": 94,
+            "rating": 4.4
+        },
+        "phone": "0855716097",
+        "status": {
+            "currentStatus": 0,
+            "currentTripID": "",
+            "directionX": 0.0,
+            "directionY": 0.0,
+            "freeTime": 621,
+            "x": 14.9,
+            "y": 56.3
+        },
+        "vehicleType": 1
+    },
+    {
+        "id": "D000006",
+        "licensePlate": "31H2-79471",
+        "name": "Ngo Hoang Huy",
+        "performance": {
+            "acceptanceRate": 67.25,
+            "acceptedTrips": 267,
+            "cancellationThreshold": 40.0,
+            "cancellationWarned": true,
+            "cancelledTrips": 48,
+            "completedTrips": 115,
+            "offeredTrips": 397,
+            "rating": 4.9
+        },
+        "phone": "0363786401",
+        "status": {
+            "currentStatus": 2,
+            "currentTripID": "T104054",
+            "directionX": -0.916,
+            "directionY": 0.4,
+            "freeTime": 0,
+            "x": 94.8,
+            "y": 20.8
+        },
+        "vehicleType": 0
+    },
+    {
+        "id": "D000007",
+        "licensePlate": "51C-22782",
+        "name": "Ly Hoang B",
+        "performance": {
+            "acceptanceRate": 0.0,
+            "acceptedTrips": 0,
+            "cancellationThreshold": 25.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 0,
+            "completedTrips": 0,
+            "offeredTrips": 80,
+            "rating": 3.6
+        },
+        "phone": "0341259379",
+        "status": {
+            "currentStatus": 0,
+            "currentTripID": "",
+            "directionX": 0.0,
+            "directionY": 0.0,
+            "freeTime": 3520,
+            "x": 45.4,
+            "y": 68.7
+        },
+        "vehicleType": 1
+    },
+    {
+        "id": "D000008",
+        "licensePlate": "92Y4-15043",
+        "name": "Huynh Kim Lan",
+        "performance": {
+            "acceptanceRate": 22.96,
+            "acceptedTrips": 76,
+            "cancellationThreshold": 40.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 8,
+            "completedTrips": 18,
+            "offeredTrips": 331,
+            "rating": 4.1
+        },
+        "phone": "0343771676",
+        "status": {
+            "currentStatus": 0,
+            "currentTripID": "",
+            "directionX": 0.0,
+            "directionY": 0.0,
+            "freeTime": 1182,
+            "x": 43.9,
+            "y": 46.9
+        },
+        "vehicleType": 1
+    },
+    {
+        "id": "D000009",
+        "licensePlate": "75P5-57377",
+        "name": "Nguyen Kim Thao",
+        "performance": {
+            "acceptanceRate": 48.57,
+            "acceptedTrips": 221,
+            "cancellationThreshold": 30.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 47,
+            "completedTrips": 82,
+            "offeredTrips": 455,
+            "rating": 4.5
+        },
+        "phone": "0930668752",
+        "status": {
+            "currentStatus": 1,
+            "currentTripID": "T183701",
+            "directionX": -0.868,
+            "directionY": -0.496,
+            "freeTime": 0,
+            "x": 47.1,
+            "y": 65.2
+        },
+        "vehicleType": 1
+    },
+    {
+        "id": "D000010",
+        "licensePlate": "47Y7-11959",
+        "name": "Dang Xuan Tuan",
+        "performance": {
+            "acceptanceRate": 40.67,
+            "acceptedTrips": 85,
+            "cancellationThreshold": 40.0,
+            "cancellationWarned": true,
+            "cancelledTrips": 10,
+            "completedTrips": 13,
+            "offeredTrips": 209,
+            "rating": 3.2
+        },
+        "phone": "0325837817",
+        "status": {
+            "currentStatus": 2,
+            "currentTripID": "T264660",
+            "directionX": -0.66,
+            "directionY": 0.751,
+            "freeTime": 0,
+            "x": 32.3,
+            "y": 97.0
+        },
+        "vehicleType": 1
+    },
+    {
+        "id": "D000011",
+        "licensePlate": "59A9-54165",
+        "name": "Hoang Hoang Mai",
+        "performance": {
+            "acceptanceRate": 69.81,
+            "acceptedTrips": 185,
+            "cancellationThreshold": 35.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 39,
+            "completedTrips": 127,
+            "offeredTrips": 265,
+            "rating": 4.9
+        },
+        "phone": "0913147112",
+        "status": {
+            "currentStatus": 1,
+            "currentTripID": "T638449",
+            "directionX": 0.659,
+            "directionY": -0.752,
+            "freeTime": 0,
+            "x": 79.9,
+            "y": 71.0
+        },
+        "vehicleType": 1
+    },
+    {
+        "id": "D000012",
+        "licensePlate": "60A9-12217",
+        "name": "Ngo Bao Long",
+        "performance": {
+            "acceptanceRate": 12.71,
+            "acceptedTrips": 30,
+            "cancellationThreshold": 35.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 2,
+            "completedTrips": 15,
+            "offeredTrips": 236,
+            "rating": 4.1
+        },
+        "phone": "0701903561",
+        "status": {
+            "currentStatus": 2,
+            "currentTripID": "T402220",
+            "directionX": -0.712,
+            "directionY": 0.702,
+            "freeTime": 0,
+            "x": 19.1,
+            "y": 59.9
+        },
+        "vehicleType": 2
+    },
+    {
+        "id": "D000013",
+        "licensePlate": "43C5-44548",
+        "name": "Hoang Duc Trang",
+        "performance": {
+            "acceptanceRate": 0.24,
+            "acceptedTrips": 1,
+            "cancellationThreshold": 35.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 0,
+            "completedTrips": 1,
+            "offeredTrips": 420,
+            "rating": 4.1
+        },
+        "phone": "0334482413",
+        "status": {
+            "currentStatus": 2,
+            "currentTripID": "T569828",
+            "directionX": 0.447,
+            "directionY": 0.895,
+            "freeTime": 0,
+            "x": 37.7,
+            "y": 93.3
+        },
+        "vehicleType": 0
+    },
+    {
+        "id": "D000014",
+        "licensePlate": "75H-53841",
+        "name": "Hoang Duc B",
+        "performance": {
+            "acceptanceRate": 63.52,
+            "acceptedTrips": 242,
+            "cancellationThreshold": 25.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 45,
+            "completedTrips": 97,
+            "offeredTrips": 381,
+            "rating": 4.2
+        },
+        "phone": "0915338112",
+        "status": {
+            "currentStatus": 0,
+            "currentTripID": "",
+            "directionX": 0.0,
+            "directionY": 0.0,
+            "freeTime": 3562,
+            "x": 10.0,
+            "y": 84.5
+        },
+        "vehicleType": 0
+    },
+    {
+        "id": "D000015",
+        "licensePlate": "59T-53736",
+        "name": "Bui Bao Thao",
+        "performance": {
+            "acceptanceRate": 83.33,
+            "acceptedTrips": 200,
+            "cancellationThreshold": 40.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 16,
+            "completedTrips": 86,
+            "offeredTrips": 240,
+            "rating": 3.6
+        },
+        "phone": "0981255409",
+        "status": {
+            "currentStatus": 1,
+            "currentTripID": "T753630",
+            "directionX": -0.237,
+            "directionY": -0.971,
+            "freeTime": 0,
+            "x": 88.7,
+            "y": 48.8
+        },
+        "vehicleType": 2
+    },
+    {
+        "id": "D000016",
+        "licensePlate": "30Z-82727",
+        "name": "Huynh Thu Lan",
+        "performance": {
+            "acceptanceRate": 12.04,
+            "acceptedTrips": 46,
+            "cancellationThreshold": 20.0,
+            "cancellationWarned": true,
+            "cancelledTrips": 6,
+            "completedTrips": 6,
+            "offeredTrips": 382,
+            "rating": 4.6
+        },
+        "phone": "0773816586",
+        "status": {
+            "currentStatus": 1,
+            "currentTripID": "T307619",
+            "directionX": 0.455,
+            "directionY": -0.891,
+            "freeTime": 0,
+            "x": 35.8,
+            "y": 43.1
+        },
+        "vehicleType": 0
+    },
+    {
+        "id": "D000017",
+        "licensePlate": "59S-22946",
+        "name": "Duong Xuan Hung",
+        "performance": {
+            "acceptanceRate": 38.8,
+            "acceptedTrips": 123,
+            "cancellationThreshold": 35.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 15,
+            "completedTrips": 74,
+            "offeredTrips": 317,
+            "rating": 3.0
+        },
+        "phone": "0936418028",
+        "status": {
+            "currentStatus": 0,
+            "currentTripID": "",
+            "directionX": 0.0,
+            "directionY": 0.0,
+            "freeTime": 3295,
+            "x": 46.5,
+            "y": 28.8
+        },
+        "vehicleType": 2
+    },
+    {
+        "id": "D000018",
+        "licensePlate": "47C8-77014",
+        "name": "Ho Bao Long",
+        "performance": {
+            "acceptanceRate": 36.26,
+            "acceptedTrips": 128,
+            "cancellationThreshold": 20.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 29,
+            "completedTrips": 38,
+            "offeredTrips": 353,
+            "rating": 4.1
+        },
+        "phone": "0777118722",
+        "status": {
+            "currentStatus": 0,
+            "currentTripID": "",
+            "directionX": 0.0,
+            "directionY": 0.0,
+            "freeTime": 2354,
+            "x": 29.6,
+            "y": 69.9
+        },
+        "vehicleType": 0
+    },
+    {
+        "id": "D000019",
+        "licensePlate": "72P-74177",
+        "name": "Phan Gia Hung",
+        "performance": {
+            "acceptanceRate": 34.27,
+            "acceptedTrips": 146,
+            "cancellationThreshold": 25.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 14,
+            "completedTrips": 90,
+            "offeredTrips": 426,
+            "rating": 4.8
+        },
+        "phone": "0918333700",
+        "status": {
+            "currentStatus": 0,
+            "currentTripID": "",
+            "directionX": 0.0,
+            "directionY": 0.0,
+            "freeTime": 2647,
+            "x": 3.9,
+            "y": 78.9
+        },
+        "vehicleType": 0
+    },
+    {
+        "id": "D000020",
+        "licensePlate": "61N-38680",
+        "name": "Vo Bao F",
+        "performance": {
+            "acceptanceRate": 28.09,
+            "acceptedTrips": 25,
+            "cancellationThreshold": 30.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 1,
+            "completedTrips": 17,
+            "offeredTrips": 89,
+            "rating": 4.9
+        },
+        "phone": "0786970985",
+        "status": {
+            "currentStatus": 2,
+            "currentTripID": "T845665",
+            "directionX": -1.0,
+            "directionY": 0.013,
+            "freeTime": 0,
+            "x": 29.5,
+            "y": 87.0
+        },
+        "vehicleType": 0
+    },
+    {
+        "id": "D000021",
+        "licensePlate": "57C-88647",
+        "name": "Pham Duc Linh",
+        "performance": {
+            "acceptanceRate": 12.3,
+            "acceptedTrips": 23,
+            "cancellationThreshold": 30.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 3,
+            "completedTrips": 0,
+            "offeredTrips": 187,
+            "rating": 4.6
+        },
+        "phone": "0819350154",
+        "status": {
+            "currentStatus": 0,
+            "currentTripID": "",
+            "directionX": 0.0,
+            "directionY": 0.0,
+            "freeTime": 1521,
+            "x": 10.8,
+            "y": 23.4
+        },
+        "vehicleType": 0
+    },
+    {
+        "id": "D000022",
+        "licensePlate": "65X-84889",
+        "name": "Tran Van Lan",
+        "performance": {
+            "acceptanceRate": 76.99,
+            "acceptedTrips": 358,
+            "cancellationThreshold": 35.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 38,
+            "completedTrips": 209,
+            "offeredTrips": 465,
+            "rating": 3.5
+        },
+        "phone": "0937789116",
+        "status": {
+            "currentStatus": 0,
+            "currentTripID": "",
+            "directionX": 0.0,
+            "directionY": 0.0,
+            "freeTime": 2201,
+            "x": 13.6,
+            "y": 45.4
+        },
+        "vehicleType": 2
+    },
+    {
+        "id": "D000023",
+        "licensePlate": "79X-54379",
+        "name": "Vu Bao Linh",
+        "performance": {
+            "acceptanceRate": 66.03,
+            "acceptedTrips": 208,
+            "cancellationThreshold": 20.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 17,
+            "completedTrips": 8,
+            "offeredTrips": 315,
+            "rating": 3.7
+        },
+        "phone": "0978209880",
+        "status": {
+            "currentStatus": 1,
+            "currentTripID": "T945498",
+            "directionX": -0.981,
+            "directionY": -0.192,
+            "freeTime": 0,
+            "x": 97.8,
+            "y": 35.9
+        },
+        "vehicleType": 1
+    },
+    {
+        "id": "D000024",
+        "licensePlate": "51G2-12015",
+        "name": "Phan Gia G",
+        "performance": {
+            "acceptanceRate": 100.0,
+            "acceptedTrips": 25,
+            "cancellationThreshold": 25.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 2,
+            "completedTrips": 7,
+            "offeredTrips": 25,
+            "rating": 3.3
+        },
+        "phone": "0880358318",
+        "status": {
+            "currentStatus": 2,
+            "currentTripID": "T944276",
+            "directionX": 0.698,
+            "directionY": -0.717,
+            "freeTime": 0,
+            "x": 59.6,
+            "y": 27.7
+        },
+        "vehicleType": 0
+    },
+    {
+        "id": "D000025",
+        "licensePlate": "43X-14408",
+        "name": "Huynh Hoang B",
+        "performance": {
+            "acceptanceRate": 71.43,
+            "acceptedTrips": 5,
+            "cancellationThreshold": 25.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 0,
+            "completedTrips": 4,
+            "offeredTrips": 7,
+            "rating": 4.1
+        },
+        "phone": "0902211291",
+        "status": {
+            "currentStatus": 0,
+            "currentTripID": "",
+            "directionX": 0.0,
+            "directionY": 0.0,
+            "freeTime": 3054,
+            "x": 6.4,
+            "y": 44.8
+        },
+        "vehicleType": 1
+    },
+    {
+        "id": "D000026",
+        "licensePlate": "59Y2-66039",
+        "name": "Nguyen Van Long",
+        "performance": {
+            "acceptanceRate": 90.59,
+            "acceptedTrips": 337,
+            "cancellationThreshold": 35.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 66,
+            "completedTrips": 154,
+            "offeredTrips": 372,
+            "rating": 3.2
+        },
+        "phone": "0700727544",
+        "status": {
+            "currentStatus": 0,
+            "currentTripID": "",
+            "directionX": 0.0,
+            "directionY": 0.0,
+            "freeTime": 2917,
+            "x": 91.0,
+            "y": 7.3
+        },
+        "vehicleType": 0
+    },
+    {
+        "id": "D000027",
+        "licensePlate": "53Z-16540",
+        "name": "Ngo Thi Cuong",
+        "performance": {
+            "acceptanceRate": 59.29,
+            "acceptedTrips": 166,
+            "cancellationThreshold": 20.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 24,
+            "completedTrips": 135,
+            "offeredTrips": 280,
+            "rating": 4.3
+        },
+        "phone": "0769820789",
+        "status": {
+            "currentStatus": 0,
+            "currentTripID": "",
+            "directionX": 0.0,
+            "directionY": 0.0,
+            "freeTime": 3149,
+            "x": 55.1,
+            "y": 86.5
+        },
+        "vehicleType": 1
+    },
+    {
+        "id": "D000028",
+        "licensePlate": "57H7-59441",
+        "name": "Vo Thanh E",
+        "performance": {
+            "acceptanceRate": 12.87,
+            "acceptedTrips": 48,
+            "cancellationThreshold": 35.0,
+            "cancellationWarned": true,
+            "cancelledTrips": 5,
+            "completedTrips": 27,
+            "offeredTrips": 373,
+            "rating": 4.7
+        },
+        "phone": "0816979148",
+        "status": {
+            "currentStatus": 0,
+            "currentTripID": "",
+            "directionX": 0.0,
+            "directionY": 0.0,
+            "freeTime": 381,
+            "x": 43.2,
+            "y": 74.5
+        },
+        "vehicleType": 1
+    },
+    {
+        "id": "D000029",
+        "licensePlate": "92E-76869",
+        "name": "Tran Hoang Khoa",
+        "performance": {
+            "acceptanceRate": 18.45,
+            "acceptedTrips": 31,
+            "cancellationThreshold": 30.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 6,
+            "completedTrips": 11,
+            "offeredTrips": 168,
+            "rating": 4.2
+        },
+        "phone": "0349423483",
+        "status": {
+            "currentStatus": 2,
+            "currentTripID": "T223073",
+            "directionX": 0.985,
+            "directionY": -0.172,
+            "freeTime": 0,
+            "x": 15.5,
+            "y": 48.2
+        },
+        "vehicleType": 0
+    },
+    {
+        "id": "D000030",
+        "licensePlate": "54X-99956",
+        "name": "Nguyen Gia Tam",
+        "performance": {
+            "acceptanceRate": 89.57,
+            "acceptedTrips": 103,
+            "cancellationThreshold": 30.0,
+            "cancellationWarned": true,
+            "cancelledTrips": 13,
+            "completedTrips": 71,
+            "offeredTrips": 115,
+            "rating": 3.5
+        },
+        "phone": "0769631799",
+        "status": {
+            "currentStatus": 2,
+            "currentTripID": "T799445",
+            "directionX": 0.942,
+            "directionY": 0.336,
+            "freeTime": 0,
+            "x": 30.9,
+            "y": 34.0
+        },
+        "vehicleType": 0
+    },
+    {
+        "id": "D000031",
+        "licensePlate": "47E-18595",
+        "name": "Bui Minh Linh",
+        "performance": {
+            "acceptanceRate": 70.94,
+            "acceptedTrips": 271,
+            "cancellationThreshold": 30.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 27,
+            "completedTrips": 96,
+            "offeredTrips": 382,
+            "rating": 4.6
+        },
+        "phone": "0901539438",
+        "status": {
+            "currentStatus": 0,
+            "currentTripID": "",
+            "directionX": 0.0,
+            "directionY": 0.0,
+            "freeTime": 2324,
+            "x": 59.6,
+            "y": 88.3
+        },
+        "vehicleType": 0
+    },
+    {
+        "id": "D000032",
+        "licensePlate": "47Z-35665",
+        "name": "Pham Thanh Hoa",
+        "performance": {
+            "acceptanceRate": 62.5,
+            "acceptedTrips": 155,
+            "cancellationThreshold": 20.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 28,
+            "completedTrips": 106,
+            "offeredTrips": 248,
+            "rating": 4.4
+        },
+        "phone": "0857113787",
+        "status": {
+            "currentStatus": 0,
+            "currentTripID": "",
+            "directionX": 0.0,
+            "directionY": 0.0,
+            "freeTime": 1993,
+            "x": 52.7,
+            "y": 30.8
+        },
+        "vehicleType": 0
+    },
+    {
+        "id": "D000033",
+        "licensePlate": "55Z-26794",
+        "name": "Nguyen Duc Hai",
+        "performance": {
+            "acceptanceRate": 17.86,
+            "acceptedTrips": 70,
+            "cancellationThreshold": 35.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 8,
+            "completedTrips": 18,
+            "offeredTrips": 392,
+            "rating": 3.8
+        },
+        "phone": "0773543918",
+        "status": {
+            "currentStatus": 0,
+            "currentTripID": "",
+            "directionX": 0.0,
+            "directionY": 0.0,
+            "freeTime": 2882,
+            "x": 23.0,
+            "y": 55.9
+        },
+        "vehicleType": 2
+    },
+    {
+        "id": "D000034",
+        "licensePlate": "92N2-97260",
+        "name": "Ngo Hoang D",
+        "performance": {
+            "acceptanceRate": 77.78,
+            "acceptedTrips": 7,
+            "cancellationThreshold": 35.0,
+            "cancellationWarned": true,
+            "cancelledTrips": 0,
+            "completedTrips": 5,
+            "offeredTrips": 9,
+            "rating": 3.6
+        },
+        "phone": "0917318550",
+        "status": {
+            "currentStatus": 1,
+            "currentTripID": "T840248",
+            "directionX": 0.331,
+            "directionY": 0.944,
+            "freeTime": 0,
+            "x": 94.8,
+            "y": 46.0
+        },
+        "vehicleType": 2
+    },
+    {
+        "id": "D000035",
+        "licensePlate": "54C-31891",
+        "name": "Huynh Thi Phuc",
+        "performance": {
+            "acceptanceRate": 65.37,
+            "acceptedTrips": 134,
+            "cancellationThreshold": 20.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 5,
+            "completedTrips": 101,
+            "offeredTrips": 205,
+            "rating": 3.4
+        },
+        "phone": "0839879620",
+        "status": {
+            "currentStatus": 2,
+            "currentTripID": "T813935",
+            "directionX": 0.662,
+            "directionY": -0.75,
+            "freeTime": 0,
+            "x": 34.9,
+            "y": 72.7
+        },
+        "vehicleType": 2
+    },
+    {
+        "id": "D000036",
+        "licensePlate": "43H-33550",
+        "name": "Duong Xuan Tam",
+        "performance": {
+            "acceptanceRate": 25.32,
+            "acceptedTrips": 78,
+            "cancellationThreshold": 40.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 2,
+            "completedTrips": 22,
+            "offeredTrips": 308,
+            "rating": 5.0
+        },
+        "phone": "0882910830",
+        "status": {
+            "currentStatus": 2,
+            "currentTripID": "T338909",
+            "directionX": 0.963,
+            "directionY": -0.271,
+            "freeTime": 0,
+            "x": 86.4,
+            "y": 62.7
+        },
+        "vehicleType": 0
+    },
+    {
+        "id": "D000037",
+        "licensePlate": "57C8-82756",
+        "name": "Duong Duc B",
+        "performance": {
+            "acceptanceRate": 9.27,
+            "acceptedTrips": 28,
+            "cancellationThreshold": 20.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 5,
+            "completedTrips": 16,
+            "offeredTrips": 302,
+            "rating": 3.6
+        },
+        "phone": "0774608259",
+        "status": {
+            "currentStatus": 0,
+            "currentTripID": "",
+            "directionX": 0.0,
+            "directionY": 0.0,
+            "freeTime": 2640,
+            "x": 86.4,
+            "y": 85.5
+        },
+        "vehicleType": 2
+    },
+    {
+        "id": "D000038",
+        "licensePlate": "65V7-76064",
+        "name": "Ly Anh E",
+        "performance": {
+            "acceptanceRate": 90.0,
+            "acceptedTrips": 207,
+            "cancellationThreshold": 20.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 36,
+            "completedTrips": 166,
+            "offeredTrips": 230,
+            "rating": 4.6
+        },
+        "phone": "0340688246",
+        "status": {
+            "currentStatus": 0,
+            "currentTripID": "",
+            "directionX": 0.0,
+            "directionY": 0.0,
+            "freeTime": 3429,
+            "x": 34.3,
+            "y": 71.4
+        },
+        "vehicleType": 2
+    },
+    {
+        "id": "D000039",
+        "licensePlate": "68F-92749",
+        "name": "Dang Ngoc Hoa",
+        "performance": {
+            "acceptanceRate": 99.63,
+            "acceptedTrips": 267,
+            "cancellationThreshold": 30.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 20,
+            "completedTrips": 93,
+            "offeredTrips": 268,
+            "rating": 3.1
+        },
+        "phone": "0857372274",
+        "status": {
+            "currentStatus": 0,
+            "currentTripID": "",
+            "directionX": 0.0,
+            "directionY": 0.0,
+            "freeTime": 2584,
+            "x": 64.7,
+            "y": 6.6
+        },
+        "vehicleType": 0
+    },
+    {
+        "id": "D000040",
+        "licensePlate": "60P5-94861",
+        "name": "Ho Minh Khoa",
+        "performance": {
+            "acceptanceRate": 11.76,
+            "acceptedTrips": 20,
+            "cancellationThreshold": 20.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 4,
+            "completedTrips": 4,
+            "offeredTrips": 170,
+            "rating": 3.8
+        },
+        "phone": "0362522845",
+        "status": {
+            "currentStatus": 2,
+            "currentTripID": "T830118",
+            "directionX": -0.772,
+            "directionY": 0.635,
+            "freeTime": 0,
+            "x": 32.8,
+            "y": 12.8
+        },
+        "vehicleType": 2
+    },
+    {
+        "id": "D000041",
+        "licensePlate": "79V2-66648",
+        "name": "Ly Quoc H",
+        "performance": {
+            "acceptanceRate": 42.7,
+            "acceptedTrips": 79,
+            "cancellationThreshold": 25.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 5,
+            "completedTrips": 27,
+            "offeredTrips": 185,
+            "rating": 3.6
+        },
+        "phone": "0790305857",
+        "status": {
+            "currentStatus": 0,
+            "currentTripID": "",
+            "directionX": 0.0,
+            "directionY": 0.0,
+            "freeTime": 3228,
+            "x": 10.1,
+            "y": 77.1
+        },
+        "vehicleType": 2
+    },
+    {
+        "id": "D000042",
+        "licensePlate": "59B-78282",
+        "name": "Vu Duc Khoa",
+        "performance": {
+            "acceptanceRate": 27.71,
+            "acceptedTrips": 23,
+            "cancellationThreshold": 30.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 5,
+            "completedTrips": 5,
+            "offeredTrips": 83,
+            "rating": 4.6
+        },
+        "phone": "0812587931",
+        "status": {
+            "currentStatus": 1,
+            "currentTripID": "T245370",
+            "directionX": -0.959,
+            "directionY": -0.285,
+            "freeTime": 0,
+            "x": 53.4,
+            "y": 30.9
+        },
+        "vehicleType": 1
+    },
+    {
+        "id": "D000043",
+        "licensePlate": "49N8-36932",
+        "name": "Ly Bao Linh",
+        "performance": {
+            "acceptanceRate": 79.26,
+            "acceptedTrips": 214,
+            "cancellationThreshold": 40.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 10,
+            "completedTrips": 51,
+            "offeredTrips": 270,
+            "rating": 4.4
+        },
+        "phone": "0818437374",
+        "status": {
+            "currentStatus": 2,
+            "currentTripID": "T540971",
+            "directionX": -0.823,
+            "directionY": -0.569,
+            "freeTime": 0,
+            "x": 85.1,
+            "y": 28.5
+        },
+        "vehicleType": 0
+    },
+    {
+        "id": "D000044",
+        "licensePlate": "51T-57340",
+        "name": "Do Quoc Tuan",
+        "performance": {
+            "acceptanceRate": 55.02,
+            "acceptedTrips": 230,
+            "cancellationThreshold": 20.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 56,
+            "completedTrips": 89,
+            "offeredTrips": 418,
+            "rating": 3.1
+        },
+        "phone": "0933725179",
+        "status": {
+            "currentStatus": 2,
+            "currentTripID": "T976042",
+            "directionX": -0.635,
+            "directionY": -0.773,
+            "freeTime": 0,
+            "x": 9.9,
+            "y": 71.5
+        },
+        "vehicleType": 1
+    },
+    {
+        "id": "D000045",
+        "licensePlate": "92E-37601",
+        "name": "Phan Bao E",
+        "performance": {
+            "acceptanceRate": 93.04,
+            "acceptedTrips": 361,
+            "cancellationThreshold": 40.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 60,
+            "completedTrips": 229,
+            "offeredTrips": 388,
+            "rating": 4.2
+        },
+        "phone": "0322328554",
+        "status": {
+            "currentStatus": 1,
+            "currentTripID": "T443815",
+            "directionX": 0.645,
+            "directionY": -0.764,
+            "freeTime": 0,
+            "x": 11.1,
+            "y": 28.8
+        },
+        "vehicleType": 1
+    },
+    {
+        "id": "D000046",
+        "licensePlate": "33B4-83748",
+        "name": "Hoang Hoang Hoa",
+        "performance": {
+            "acceptanceRate": 21.88,
+            "acceptedTrips": 7,
+            "cancellationThreshold": 20.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 1,
+            "completedTrips": 4,
+            "offeredTrips": 32,
+            "rating": 3.5
+        },
+        "phone": "0367669093",
+        "status": {
+            "currentStatus": 1,
+            "currentTripID": "T436803",
+            "directionX": 0.869,
+            "directionY": 0.494,
+            "freeTime": 0,
+            "x": 18.7,
+            "y": 66.8
+        },
+        "vehicleType": 2
+    },
+    {
+        "id": "D000047",
+        "licensePlate": "54C-51177",
+        "name": "Vu Thu Thao",
+        "performance": {
+            "acceptanceRate": 60.92,
+            "acceptedTrips": 198,
+            "cancellationThreshold": 20.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 23,
+            "completedTrips": 64,
+            "offeredTrips": 325,
+            "rating": 4.5
+        },
+        "phone": "0320730386",
+        "status": {
+            "currentStatus": 1,
+            "currentTripID": "T348672",
+            "directionX": -0.314,
+            "directionY": -0.949,
+            "freeTime": 0,
+            "x": 13.3,
+            "y": 35.2
+        },
+        "vehicleType": 1
+    },
+    {
+        "id": "D000048",
+        "licensePlate": "68F8-82802",
+        "name": "Phan Van Nam",
+        "performance": {
+            "acceptanceRate": 90.62,
+            "acceptedTrips": 29,
+            "cancellationThreshold": 30.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 0,
+            "completedTrips": 9,
+            "offeredTrips": 32,
+            "rating": 5.0
+        },
+        "phone": "0862262450",
+        "status": {
+            "currentStatus": 0,
+            "currentTripID": "",
+            "directionX": 0.0,
+            "directionY": 0.0,
+            "freeTime": 2224,
+            "x": 47.3,
+            "y": 3.7
+        },
+        "vehicleType": 2
+    },
+    {
+        "id": "D000049",
+        "licensePlate": "49L-85948",
+        "name": "Huynh Duc Son",
+        "performance": {
+            "acceptanceRate": 74.6,
+            "acceptedTrips": 47,
+            "cancellationThreshold": 35.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 6,
+            "completedTrips": 25,
+            "offeredTrips": 63,
+            "rating": 4.6
+        },
+        "phone": "0784583814",
+        "status": {
+            "currentStatus": 1,
+            "currentTripID": "T279677",
+            "directionX": 0.961,
+            "directionY": -0.276,
+            "freeTime": 0,
+            "x": 80.1,
+            "y": 72.7
+        },
+        "vehicleType": 0
+    },
+    {
+        "id": "D000050",
+        "licensePlate": "56Z3-42101",
+        "name": "Do Duc B",
+        "performance": {
+            "acceptanceRate": 44.91,
+            "acceptedTrips": 75,
+            "cancellationThreshold": 30.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 9,
+            "completedTrips": 57,
+            "offeredTrips": 167,
+            "rating": 3.9
+        },
+        "phone": "0971343333",
+        "status": {
+            "currentStatus": 1,
+            "currentTripID": "T670533",
+            "directionX": -0.363,
+            "directionY": 0.932,
+            "freeTime": 0,
+            "x": 98.0,
+            "y": 94.8
+        },
+        "vehicleType": 0
+    },
+    {
+        "id": "D000051",
+        "licensePlate": "72P-04081",
+        "name": "Tran Gia E",
+        "performance": {
+            "acceptanceRate": 23.53,
+            "acceptedTrips": 4,
+            "cancellationThreshold": 35.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 0,
+            "completedTrips": 1,
+            "offeredTrips": 17,
+            "rating": 3.7
+        },
+        "phone": "0987351320",
+        "status": {
+            "currentStatus": 1,
+            "currentTripID": "T800153",
+            "directionX": -0.752,
+            "directionY": -0.659,
+            "freeTime": 0,
+            "x": 7.7,
+            "y": 13.8
+        },
+        "vehicleType": 1
+    },
+    {
+        "id": "D000052",
+        "licensePlate": "55M-14869",
+        "name": "Vo Thu Mai",
+        "performance": {
+            "acceptanceRate": 77.65,
+            "acceptedTrips": 198,
+            "cancellationThreshold": 25.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 35,
+            "completedTrips": 30,
+            "offeredTrips": 255,
+            "rating": 3.6
+        },
+        "phone": "0903121368",
+        "status": {
+            "currentStatus": 0,
+            "currentTripID": "",
+            "directionX": 0.0,
+            "directionY": 0.0,
+            "freeTime": 2011,
+            "x": 20.0,
+            "y": 13.6
+        },
+        "vehicleType": 0
+    },
+    {
+        "id": "D000053",
+        "licensePlate": "57F-89381",
+        "name": "Dang Bao F",
+        "performance": {
+            "acceptanceRate": 9.09,
+            "acceptedTrips": 33,
+            "cancellationThreshold": 25.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 8,
+            "completedTrips": 17,
+            "offeredTrips": 363,
+            "rating": 4.0
+        },
+        "phone": "0785828829",
+        "status": {
+            "currentStatus": 0,
+            "currentTripID": "",
+            "directionX": 0.0,
+            "directionY": 0.0,
+            "freeTime": 497,
+            "x": 98.5,
+            "y": 79.2
+        },
+        "vehicleType": 0
+    },
+    {
+        "id": "D000054",
+        "licensePlate": "92U1-72616",
+        "name": "Ly Anh Hoa",
+        "performance": {
+            "acceptanceRate": 85.77,
+            "acceptedTrips": 205,
+            "cancellationThreshold": 35.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 35,
+            "completedTrips": 33,
+            "offeredTrips": 239,
+            "rating": 3.1
+        },
+        "phone": "0356189302",
+        "status": {
+            "currentStatus": 1,
+            "currentTripID": "T332428",
+            "directionX": -0.908,
+            "directionY": -0.419,
+            "freeTime": 0,
+            "x": 64.2,
+            "y": 45.0
+        },
+        "vehicleType": 2
+    },
+    {
+        "id": "D000055",
+        "licensePlate": "59N-16912",
+        "name": "Hoang Hoang F",
+        "performance": {
+            "acceptanceRate": 95.28,
+            "acceptedTrips": 444,
+            "cancellationThreshold": 25.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 7,
+            "completedTrips": 425,
+            "offeredTrips": 466,
+            "rating": 4.4
+        },
+        "phone": "0838436654",
+        "status": {
+            "currentStatus": 0,
+            "currentTripID": "",
+            "directionX": 0.0,
+            "directionY": 0.0,
+            "freeTime": 1417,
+            "x": 94.7,
+            "y": 51.9
+        },
+        "vehicleType": 1
+    },
+    {
+        "id": "D000056",
+        "licensePlate": "31K4-16406",
+        "name": "Bui Bao Tam",
+        "performance": {
+            "acceptanceRate": 68.09,
+            "acceptedTrips": 32,
+            "cancellationThreshold": 40.0,
+            "cancellationWarned": true,
+            "cancelledTrips": 2,
+            "completedTrips": 18,
+            "offeredTrips": 47,
+            "rating": 4.7
+        },
+        "phone": "0778950276",
+        "status": {
+            "currentStatus": 2,
+            "currentTripID": "T085169",
+            "directionX": -0.909,
+            "directionY": 0.417,
+            "freeTime": 0,
+            "x": 4.5,
+            "y": 64.1
+        },
+        "vehicleType": 2
+    },
+    {
+        "id": "D000057",
+        "licensePlate": "51G-65278",
+        "name": "Le Thu B",
+        "performance": {
+            "acceptanceRate": 46.95,
+            "acceptedTrips": 154,
+            "cancellationThreshold": 25.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 30,
+            "completedTrips": 31,
+            "offeredTrips": 328,
+            "rating": 4.0
+        },
+        "phone": "0344859883",
+        "status": {
+            "currentStatus": 2,
+            "currentTripID": "T213934",
+            "directionX": 0.674,
+            "directionY": -0.738,
+            "freeTime": 0,
+            "x": 34.0,
+            "y": 14.4
+        },
+        "vehicleType": 2
+    },
+    {
+        "id": "D000058",
+        "licensePlate": "53N-99701",
+        "name": "Vo Duc H",
+        "performance": {
+            "acceptanceRate": 18.82,
+            "acceptedTrips": 54,
+            "cancellationThreshold": 25.0,
+            "cancellationWarned": true,
+            "cancelledTrips": 5,
+            "completedTrips": 15,
+            "offeredTrips": 287,
+            "rating": 3.6
+        },
+        "phone": "0798639932",
+        "status": {
+            "currentStatus": 0,
+            "currentTripID": "",
+            "directionX": 0.0,
+            "directionY": 0.0,
+            "freeTime": 1573,
+            "x": 86.4,
+            "y": 41.8
+        },
+        "vehicleType": 0
+    },
+    {
+        "id": "D000059",
+        "licensePlate": "53Y-20885",
+        "name": "Ho Anh Mai",
+        "performance": {
+            "acceptanceRate": 53.14,
+            "acceptedTrips": 127,
+            "cancellationThreshold": 25.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 19,
+            "completedTrips": 63,
+            "offeredTrips": 239,
+            "rating": 3.7
+        },
+        "phone": "0328635649",
+        "status": {
+            "currentStatus": 0,
+            "currentTripID": "",
+            "directionX": 0.0,
+            "directionY": 0.0,
+            "freeTime": 207,
+            "x": 28.1,
+            "y": 59.8
+        },
+        "vehicleType": 2
+    },
+    {
+        "id": "D000060",
+        "licensePlate": "72U-14089",
+        "name": "Tran Ngoc B",
+        "performance": {
+            "acceptanceRate": 29.93,
+            "acceptedTrips": 135,
+            "cancellationThreshold": 40.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 23,
+            "completedTrips": 97,
+            "offeredTrips": 451,
+            "rating": 3.7
+        },
+        "phone": "0832247055",
+        "status": {
+            "currentStatus": 0,
+            "currentTripID": "",
+            "directionX": 0.0,
+            "directionY": 0.0,
+            "freeTime": 1182,
+            "x": 7.4,
+            "y": 50.4
+        },
+        "vehicleType": 2
+    },
+    {
+        "id": "D000061",
+        "licensePlate": "51Z-12672",
+        "name": "Tran Van B",
+        "performance": {
+            "acceptanceRate": 42.61,
+            "acceptedTrips": 173,
+            "cancellationThreshold": 25.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 35,
+            "completedTrips": 93,
+            "offeredTrips": 406,
+            "rating": 4.6
+        },
+        "phone": "0816261229",
+        "status": {
+            "currentStatus": 1,
+            "currentTripID": "T544560",
+            "directionX": -1.0,
+            "directionY": 0.03,
+            "freeTime": 0,
+            "x": 45.7,
+            "y": 60.6
+        },
+        "vehicleType": 2
+    },
+    {
+        "id": "D000062",
+        "licensePlate": "43M-51505",
+        "name": "Nguyen Thanh Nam",
+        "performance": {
+            "acceptanceRate": 56.77,
+            "acceptedTrips": 172,
+            "cancellationThreshold": 20.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 32,
+            "completedTrips": 130,
+            "offeredTrips": 303,
+            "rating": 4.2
+        },
+        "phone": "0365020319",
+        "status": {
+            "currentStatus": 1,
+            "currentTripID": "T835458",
+            "directionX": 0.722,
+            "directionY": -0.692,
+            "freeTime": 0,
+            "x": 89.9,
+            "y": 87.2
+        },
+        "vehicleType": 2
+    },
+    {
+        "id": "D000063",
+        "licensePlate": "29Z8-85929",
+        "name": "Ho Minh Yen",
+        "performance": {
+            "acceptanceRate": 79.31,
+            "acceptedTrips": 92,
+            "cancellationThreshold": 25.0,
+            "cancellationWarned": true,
+            "cancelledTrips": 1,
+            "completedTrips": 74,
+            "offeredTrips": 116,
+            "rating": 4.9
+        },
+        "phone": "0359691097",
+        "status": {
+            "currentStatus": 0,
+            "currentTripID": "",
+            "directionX": 0.0,
+            "directionY": 0.0,
+            "freeTime": 450,
+            "x": 19.1,
+            "y": 44.1
+        },
+        "vehicleType": 1
+    },
+    {
+        "id": "D000064",
+        "licensePlate": "43S4-65774",
+        "name": "Ly Anh Tuan",
+        "performance": {
+            "acceptanceRate": 97.31,
+            "acceptedTrips": 434,
+            "cancellationThreshold": 30.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 94,
+            "completedTrips": 31,
+            "offeredTrips": 446,
+            "rating": 3.9
+        },
+        "phone": "0367912226",
+        "status": {
+            "currentStatus": 1,
+            "currentTripID": "T559025",
+            "directionX": 0.293,
+            "directionY": 0.956,
+            "freeTime": 0,
+            "x": 34.2,
+            "y": 35.4
+        },
+        "vehicleType": 2
+    },
+    {
+        "id": "D000065",
+        "licensePlate": "72K-32311",
+        "name": "Phan Thu Son",
+        "performance": {
+            "acceptanceRate": 37.5,
+            "acceptedTrips": 57,
+            "cancellationThreshold": 35.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 4,
+            "completedTrips": 49,
+            "offeredTrips": 152,
+            "rating": 3.7
+        },
+        "phone": "0769363140",
+        "status": {
+            "currentStatus": 0,
+            "currentTripID": "",
+            "directionX": 0.0,
+            "directionY": 0.0,
+            "freeTime": 3257,
+            "x": 72.2,
+            "y": 28.8
+        },
+        "vehicleType": 2
+    },
+    {
+        "id": "D000066",
+        "licensePlate": "72X7-45237",
+        "name": "Duong Xuan Hung",
+        "performance": {
+            "acceptanceRate": 42.86,
+            "acceptedTrips": 9,
+            "cancellationThreshold": 35.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 2,
+            "completedTrips": 1,
+            "offeredTrips": 21,
+            "rating": 4.7
+        },
+        "phone": "0984872986",
+        "status": {
+            "currentStatus": 0,
+            "currentTripID": "",
+            "directionX": 0.0,
+            "directionY": 0.0,
+            "freeTime": 1110,
+            "x": 93.3,
+            "y": 69.6
+        },
+        "vehicleType": 0
+    },
+    {
+        "id": "D000067",
+        "licensePlate": "33Z-06653",
+        "name": "Ly Thi Thao",
+        "performance": {
+            "acceptanceRate": 36.5,
+            "acceptedTrips": 119,
+            "cancellationThreshold": 25.0,
+            "cancellationWarned": true,
+            "cancelledTrips": 1,
+            "completedTrips": 12,
+            "offeredTrips": 326,
+            "rating": 4.1
+        },
+        "phone": "0333786141",
+        "status": {
+            "currentStatus": 0,
+            "currentTripID": "",
+            "directionX": 0.0,
+            "directionY": 0.0,
+            "freeTime": 646,
+            "x": 40.7,
+            "y": 93.5
+        },
+        "vehicleType": 1
+    },
+    {
+        "id": "D000068",
+        "licensePlate": "58G5-37409",
+        "name": "Huynh Van Yen",
+        "performance": {
+            "acceptanceRate": 87.99,
+            "acceptedTrips": 293,
+            "cancellationThreshold": 35.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 29,
+            "completedTrips": 19,
+            "offeredTrips": 333,
+            "rating": 3.4
+        },
+        "phone": "0911500901",
+        "status": {
+            "currentStatus": 2,
+            "currentTripID": "T785387",
+            "directionX": -0.648,
+            "directionY": 0.762,
+            "freeTime": 0,
+            "x": 96.2,
+            "y": 92.6
+        },
+        "vehicleType": 0
+    },
+    {
+        "id": "D000069",
+        "licensePlate": "29L2-37298",
+        "name": "Bui Minh Hai",
+        "performance": {
+            "acceptanceRate": 94.03,
+            "acceptedTrips": 252,
+            "cancellationThreshold": 35.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 17,
+            "completedTrips": 217,
+            "offeredTrips": 268,
+            "rating": 4.4
+        },
+        "phone": "0859115069",
+        "status": {
+            "currentStatus": 1,
+            "currentTripID": "T014769",
+            "directionX": -0.593,
+            "directionY": 0.806,
+            "freeTime": 0,
+            "x": 73.7,
+            "y": 79.1
+        },
+        "vehicleType": 2
+    },
+    {
+        "id": "D000070",
+        "licensePlate": "72G3-56059",
+        "name": "Hoang Duc Nam",
+        "performance": {
+            "acceptanceRate": 56.82,
+            "acceptedTrips": 25,
+            "cancellationThreshold": 25.0,
+            "cancellationWarned": true,
+            "cancelledTrips": 5,
+            "completedTrips": 3,
+            "offeredTrips": 44,
+            "rating": 3.8
+        },
+        "phone": "0335501696",
+        "status": {
+            "currentStatus": 0,
+            "currentTripID": "",
+            "directionX": 0.0,
+            "directionY": 0.0,
+            "freeTime": 1829,
+            "x": 75.4,
+            "y": 95.4
+        },
+        "vehicleType": 1
+    },
+    {
+        "id": "D000071",
+        "licensePlate": "61Y1-85679",
+        "name": "Dang Thu D",
+        "performance": {
+            "acceptanceRate": 22.58,
+            "acceptedTrips": 7,
+            "cancellationThreshold": 30.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 1,
+            "completedTrips": 2,
+            "offeredTrips": 31,
+            "rating": 3.4
+        },
+        "phone": "0793964499",
+        "status": {
+            "currentStatus": 0,
+            "currentTripID": "",
+            "directionX": 0.0,
+            "directionY": 0.0,
+            "freeTime": 547,
+            "x": 47.8,
+            "y": 45.5
+        },
+        "vehicleType": 2
+    },
+    {
+        "id": "D000072",
+        "licensePlate": "54S9-99267",
+        "name": "Do Thi Tam",
+        "performance": {
+            "acceptanceRate": 32.31,
+            "acceptedTrips": 126,
+            "cancellationThreshold": 40.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 5,
+            "completedTrips": 67,
+            "offeredTrips": 390,
+            "rating": 4.7
+        },
+        "phone": "0343664338",
+        "status": {
+            "currentStatus": 0,
+            "currentTripID": "",
+            "directionX": 0.0,
+            "directionY": 0.0,
+            "freeTime": 2070,
+            "x": 20.2,
+            "y": 53.7
+        },
+        "vehicleType": 0
+    },
+    {
+        "id": "D000073",
+        "licensePlate": "53V-89167",
+        "name": "Duong Gia B",
+        "performance": {
+            "acceptanceRate": 9.2,
+            "acceptedTrips": 23,
+            "cancellationThreshold": 40.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 4,
+            "completedTrips": 14,
+            "offeredTrips": 250,
+            "rating": 4.6
+        },
+        "phone": "0889783594",
+        "status": {
+            "currentStatus": 2,
+            "currentTripID": "T758415",
+            "directionX": -0.962,
+            "directionY": 0.274,
+            "freeTime": 0,
+            "x": 2.2,
+            "y": 25.4
+        },
+        "vehicleType": 0
+    },
+    {
+        "id": "D000074",
+        "licensePlate": "79G-55534",
+        "name": "Dang Ngoc F",
+        "performance": {
+            "acceptanceRate": 10.83,
+            "acceptedTrips": 30,
+            "cancellationThreshold": 25.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 1,
+            "completedTrips": 29,
+            "offeredTrips": 277,
+            "rating": 5.0
+        },
+        "phone": "0791069713",
+        "status": {
+            "currentStatus": 0,
+            "currentTripID": "",
+            "directionX": 0.0,
+            "directionY": 0.0,
+            "freeTime": 2645,
+            "x": 96.4,
+            "y": 37.4
+        },
+        "vehicleType": 1
+    },
+    {
+        "id": "D000075",
+        "licensePlate": "57P-89486",
+        "name": "Vu Bao A",
+        "performance": {
+            "acceptanceRate": 53.29,
+            "acceptedTrips": 178,
+            "cancellationThreshold": 20.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 7,
+            "completedTrips": 45,
+            "offeredTrips": 334,
+            "rating": 3.9
+        },
+        "phone": "0342231198",
+        "status": {
+            "currentStatus": 2,
+            "currentTripID": "T754025",
+            "directionX": -0.276,
+            "directionY": -0.961,
+            "freeTime": 0,
+            "x": 54.4,
+            "y": 53.2
+        },
+        "vehicleType": 0
+    },
+    {
+        "id": "D000076",
+        "licensePlate": "50T-36129",
+        "name": "Pham Gia B",
+        "performance": {
+            "acceptanceRate": 81.25,
+            "acceptedTrips": 13,
+            "cancellationThreshold": 35.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 0,
+            "completedTrips": 3,
+            "offeredTrips": 16,
+            "rating": 4.4
+        },
+        "phone": "0881893218",
+        "status": {
+            "currentStatus": 0,
+            "currentTripID": "",
+            "directionX": 0.0,
+            "directionY": 0.0,
+            "freeTime": 199,
+            "x": 24.5,
+            "y": 4.4
+        },
+        "vehicleType": 1
+    },
+    {
+        "id": "D000077",
+        "licensePlate": "50X-18367",
+        "name": "Bui Quoc Lan",
+        "performance": {
+            "acceptanceRate": 87.39,
+            "acceptedTrips": 104,
+            "cancellationThreshold": 25.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 23,
+            "completedTrips": 73,
+            "offeredTrips": 119,
+            "rating": 4.0
+        },
+        "phone": "0334853035",
+        "status": {
+            "currentStatus": 0,
+            "currentTripID": "",
+            "directionX": 0.0,
+            "directionY": 0.0,
+            "freeTime": 1693,
+            "x": 30.1,
+            "y": 6.1
+        },
+        "vehicleType": 2
+    },
+    {
+        "id": "D000078",
+        "licensePlate": "79F7-06145",
+        "name": "Hoang Hoang Tuan",
+        "performance": {
+            "acceptanceRate": 66.67,
+            "acceptedTrips": 268,
+            "cancellationThreshold": 25.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 40,
+            "completedTrips": 178,
+            "offeredTrips": 402,
+            "rating": 3.9
+        },
+        "phone": "0796394713",
+        "status": {
+            "currentStatus": 0,
+            "currentTripID": "",
+            "directionX": 0.0,
+            "directionY": 0.0,
+            "freeTime": 3478,
+            "x": 22.5,
+            "y": 85.8
+        },
+        "vehicleType": 0
+    },
+    {
+        "id": "D000079",
+        "licensePlate": "92T1-54592",
+        "name": "Le Duc Vy",
+        "performance": {
+            "acceptanceRate": 72.06,
+            "acceptedTrips": 49,
+            "cancellationThreshold": 30.0,
+            "cancellationWarned": true,
+            "cancelledTrips": 3,
+            "completedTrips": 16,
+            "offeredTrips": 68,
+            "rating": 4.4
+        },
+        "phone": "0348891787",
+        "status": {
+            "currentStatus": 0,
+            "currentTripID": "",
+            "directionX": 0.0,
+            "directionY": 0.0,
+            "freeTime": 780,
+            "x": 5.2,
+            "y": 37.7
+        },
+        "vehicleType": 2
+    },
+    {
+        "id": "D000080",
+        "licensePlate": "65B-99837",
+        "name": "Phan Quoc Hai",
+        "performance": {
+            "acceptanceRate": 54.95,
+            "acceptedTrips": 61,
+            "cancellationThreshold": 20.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 6,
+            "completedTrips": 55,
+            "offeredTrips": 111,
+            "rating": 4.5
+        },
+        "phone": "0359375955",
+        "status": {
+            "currentStatus": 2,
+            "currentTripID": "T958862",
+            "directionX": -0.434,
+            "directionY": 0.901,
+            "freeTime": 0,
+            "x": 24.3,
+            "y": 60.4
+        },
+        "vehicleType": 0
+    },
+    {
+        "id": "D000081",
+        "licensePlate": "55H9-37101",
+        "name": "Ly Duc D",
+        "performance": {
+            "acceptanceRate": 67.03,
+            "acceptedTrips": 183,
+            "cancellationThreshold": 35.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 19,
+            "completedTrips": 66,
+            "offeredTrips": 273,
+            "rating": 3.6
+        },
+        "phone": "0817822384",
+        "status": {
+            "currentStatus": 0,
+            "currentTripID": "",
+            "directionX": 0.0,
+            "directionY": 0.0,
+            "freeTime": 832,
+            "x": 37.1,
+            "y": 41.4
+        },
+        "vehicleType": 2
+    },
+    {
+        "id": "D000082",
+        "licensePlate": "50E1-72523",
+        "name": "Vu Ngoc Huy",
+        "performance": {
+            "acceptanceRate": 57.88,
+            "acceptedTrips": 213,
+            "cancellationThreshold": 25.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 18,
+            "completedTrips": 39,
+            "offeredTrips": 368,
+            "rating": 4.3
+        },
+        "phone": "0359716405",
+        "status": {
+            "currentStatus": 0,
+            "currentTripID": "",
+            "directionX": 0.0,
+            "directionY": 0.0,
+            "freeTime": 2805,
+            "x": 33.8,
+            "y": 76.3
+        },
+        "vehicleType": 1
+    },
+    {
+        "id": "D000083",
+        "licensePlate": "79U-96045",
+        "name": "Tran Anh B",
+        "performance": {
+            "acceptanceRate": 97.18,
+            "acceptedTrips": 69,
+            "cancellationThreshold": 20.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 15,
+            "completedTrips": 11,
+            "offeredTrips": 71,
+            "rating": 4.3
+        },
+        "phone": "0792839807",
+        "status": {
+            "currentStatus": 2,
+            "currentTripID": "T801468",
+            "directionX": 0.285,
+            "directionY": 0.959,
+            "freeTime": 0,
+            "x": 0.6,
+            "y": 13.7
+        },
+        "vehicleType": 2
+    },
+    {
+        "id": "D000084",
+        "licensePlate": "50C-28668",
+        "name": "Nguyen Anh Trang",
+        "performance": {
+            "acceptanceRate": 7.85,
+            "acceptedTrips": 15,
+            "cancellationThreshold": 35.0,
+            "cancellationWarned": true,
+            "cancelledTrips": 3,
+            "completedTrips": 10,
+            "offeredTrips": 191,
+            "rating": 4.1
+        },
+        "phone": "0337650572",
+        "status": {
+            "currentStatus": 0,
+            "currentTripID": "",
+            "directionX": 0.0,
+            "directionY": 0.0,
+            "freeTime": 1125,
+            "x": 53.6,
+            "y": 28.7
+        },
+        "vehicleType": 2
+    },
+    {
+        "id": "D000085",
+        "licensePlate": "75S-12624",
+        "name": "Do Hoang Cuong",
+        "performance": {
+            "acceptanceRate": 19.51,
+            "acceptedTrips": 24,
+            "cancellationThreshold": 35.0,
+            "cancellationWarned": true,
+            "cancelledTrips": 4,
+            "completedTrips": 16,
+            "offeredTrips": 123,
+            "rating": 4.9
+        },
+        "phone": "0332498085",
+        "status": {
+            "currentStatus": 0,
+            "currentTripID": "",
+            "directionX": 0.0,
+            "directionY": 0.0,
+            "freeTime": 1880,
+            "x": 56.5,
+            "y": 99.0
+        },
+        "vehicleType": 0
+    },
+    {
+        "id": "D000086",
+        "licensePlate": "52C-53120",
+        "name": "Huynh Thi Long",
+        "performance": {
+            "acceptanceRate": 86.17,
+            "acceptedTrips": 243,
+            "cancellationThreshold": 35.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 3,
+            "completedTrips": 163,
+            "offeredTrips": 282,
+            "rating": 3.7
+        },
+        "phone": "0816327855",
+        "status": {
+            "currentStatus": 0,
+            "currentTripID": "",
+            "directionX": 0.0,
+            "directionY": 0.0,
+            "freeTime": 3514,
+            "x": 97.4,
+            "y": 89.5
+        },
+        "vehicleType": 0
+    },
+    {
+        "id": "D000087",
+        "licensePlate": "50G8-06102",
+        "name": "Hoang Kim Yen",
+        "performance": {
+            "acceptanceRate": 60.43,
+            "acceptedTrips": 278,
+            "cancellationThreshold": 35.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 4,
+            "completedTrips": 91,
+            "offeredTrips": 460,
+            "rating": 3.6
+        },
+        "phone": "0934703878",
+        "status": {
+            "currentStatus": 2,
+            "currentTripID": "T591354",
+            "directionX": -0.373,
+            "directionY": 0.928,
+            "freeTime": 0,
+            "x": 24.0,
+            "y": 83.5
+        },
+        "vehicleType": 1
+    },
+    {
+        "id": "D000088",
+        "licensePlate": "72X6-99039",
+        "name": "Le Thanh Khoa",
+        "performance": {
+            "acceptanceRate": 69.14,
+            "acceptedTrips": 177,
+            "cancellationThreshold": 40.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 3,
+            "completedTrips": 25,
+            "offeredTrips": 256,
+            "rating": 3.8
+        },
+        "phone": "0981315798",
+        "status": {
+            "currentStatus": 0,
+            "currentTripID": "",
+            "directionX": 0.0,
+            "directionY": 0.0,
+            "freeTime": 3168,
+            "x": 32.6,
+            "y": 63.4
+        },
+        "vehicleType": 1
+    },
+    {
+        "id": "D000089",
+        "licensePlate": "58H6-56603",
+        "name": "Vu Thu C",
+        "performance": {
+            "acceptanceRate": 57.4,
+            "acceptedTrips": 194,
+            "cancellationThreshold": 20.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 5,
+            "completedTrips": 158,
+            "offeredTrips": 338,
+            "rating": 3.8
+        },
+        "phone": "0869829353",
+        "status": {
+            "currentStatus": 0,
+            "currentTripID": "",
+            "directionX": 0.0,
+            "directionY": 0.0,
+            "freeTime": 3210,
+            "x": 63.4,
+            "y": 74.0
+        },
+        "vehicleType": 1
+    },
+    {
+        "id": "D000090",
+        "licensePlate": "54D-40405",
+        "name": "Ngo Duc Trang",
+        "performance": {
+            "acceptanceRate": 35.48,
+            "acceptedTrips": 138,
+            "cancellationThreshold": 40.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 6,
+            "completedTrips": 33,
+            "offeredTrips": 389,
+            "rating": 3.2
+        },
+        "phone": "0856038413",
+        "status": {
+            "currentStatus": 0,
+            "currentTripID": "",
+            "directionX": 0.0,
+            "directionY": 0.0,
+            "freeTime": 367,
+            "x": 35.4,
+            "y": 9.3
+        },
+        "vehicleType": 2
+    },
+    {
+        "id": "D000091",
+        "licensePlate": "92M-38253",
+        "name": "Hoang Hoang Lan",
+        "performance": {
+            "acceptanceRate": 10.8,
+            "acceptedTrips": 43,
+            "cancellationThreshold": 30.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 8,
+            "completedTrips": 15,
+            "offeredTrips": 398,
+            "rating": 3.1
+        },
+        "phone": "0836506196",
+        "status": {
+            "currentStatus": 1,
+            "currentTripID": "T455792",
+            "directionX": -0.941,
+            "directionY": -0.34,
+            "freeTime": 0,
+            "x": 27.6,
+            "y": 30.0
+        },
+        "vehicleType": 0
+    },
+    {
+        "id": "D000092",
+        "licensePlate": "54K4-77831",
+        "name": "Ho Thanh Yen",
+        "performance": {
+            "acceptanceRate": 11.54,
+            "acceptedTrips": 27,
+            "cancellationThreshold": 40.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 1,
+            "completedTrips": 9,
+            "offeredTrips": 234,
+            "rating": 4.7
+        },
+        "phone": "0363280754",
+        "status": {
+            "currentStatus": 0,
+            "currentTripID": "",
+            "directionX": 0.0,
+            "directionY": 0.0,
+            "freeTime": 1803,
+            "x": 33.5,
+            "y": 81.5
+        },
+        "vehicleType": 2
+    },
+    {
+        "id": "D000093",
+        "licensePlate": "65E5-79064",
+        "name": "Ly Gia Cuong",
+        "performance": {
+            "acceptanceRate": 28.12,
+            "acceptedTrips": 45,
+            "cancellationThreshold": 25.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 6,
+            "completedTrips": 20,
+            "offeredTrips": 160,
+            "rating": 3.6
+        },
+        "phone": "0888036449",
+        "status": {
+            "currentStatus": 0,
+            "currentTripID": "",
+            "directionX": 0.0,
+            "directionY": 0.0,
+            "freeTime": 3218,
+            "x": 39.3,
+            "y": 11.4
+        },
+        "vehicleType": 2
+    },
+    {
+        "id": "D000094",
+        "licensePlate": "49Y-89353",
+        "name": "Dang Bao Son",
+        "performance": {
+            "acceptanceRate": 76.39,
+            "acceptedTrips": 372,
+            "cancellationThreshold": 20.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 59,
+            "completedTrips": 107,
+            "offeredTrips": 487,
+            "rating": 4.6
+        },
+        "phone": "0340451577",
+        "status": {
+            "currentStatus": 0,
+            "currentTripID": "",
+            "directionX": 0.0,
+            "directionY": 0.0,
+            "freeTime": 1675,
+            "x": 67.3,
+            "y": 13.9
+        },
+        "vehicleType": 1
+    },
+    {
+        "id": "D000095",
+        "licensePlate": "50K3-49412",
+        "name": "Ngo Anh B",
+        "performance": {
+            "acceptanceRate": 80.07,
+            "acceptedTrips": 245,
+            "cancellationThreshold": 30.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 37,
+            "completedTrips": 102,
+            "offeredTrips": 306,
+            "rating": 4.6
+        },
+        "phone": "0937534089",
+        "status": {
+            "currentStatus": 1,
+            "currentTripID": "T622666",
+            "directionX": 0.753,
+            "directionY": 0.658,
+            "freeTime": 0,
+            "x": 63.8,
+            "y": 8.5
+        },
+        "vehicleType": 0
+    },
+    {
+        "id": "D000096",
+        "licensePlate": "72N-73822",
+        "name": "Vo Quoc Phuc",
+        "performance": {
+            "acceptanceRate": 82.39,
+            "acceptedTrips": 407,
+            "cancellationThreshold": 40.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 55,
+            "completedTrips": 54,
+            "offeredTrips": 494,
+            "rating": 4.4
+        },
+        "phone": "0815563269",
+        "status": {
+            "currentStatus": 0,
+            "currentTripID": "",
+            "directionX": 0.0,
+            "directionY": 0.0,
+            "freeTime": 905,
+            "x": 44.6,
+            "y": 39.1
+        },
+        "vehicleType": 2
+    },
+    {
+        "id": "D000097",
+        "licensePlate": "61V3-03219",
+        "name": "Bui Duc Cuong",
+        "performance": {
+            "acceptanceRate": 70.2,
+            "acceptedTrips": 106,
+            "cancellationThreshold": 25.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 2,
+            "completedTrips": 14,
+            "offeredTrips": 151,
+            "rating": 3.7
+        },
+        "phone": "0321754047",
+        "status": {
+            "currentStatus": 2,
+            "currentTripID": "T102366",
+            "directionX": 0.835,
+            "directionY": -0.55,
+            "freeTime": 0,
+            "x": 43.8,
+            "y": 69.7
+        },
+        "vehicleType": 1
+    },
+    {
+        "id": "D000098",
+        "licensePlate": "31L-02960",
+        "name": "Huynh Thanh Trang",
+        "performance": {
+            "acceptanceRate": 24.28,
+            "acceptedTrips": 84,
+            "cancellationThreshold": 35.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 7,
+            "completedTrips": 66,
+            "offeredTrips": 346,
+            "rating": 3.5
+        },
+        "phone": "0781834801",
+        "status": {
+            "currentStatus": 0,
+            "currentTripID": "",
+            "directionX": 0.0,
+            "directionY": 0.0,
+            "freeTime": 1659,
+            "x": 63.0,
+            "y": 18.6
+        },
+        "vehicleType": 2
+    },
+    {
+        "id": "D000099",
+        "licensePlate": "56P-58926",
+        "name": "Le Gia D",
+        "performance": {
+            "acceptanceRate": 0.5,
+            "acceptedTrips": 1,
+            "cancellationThreshold": 40.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 0,
+            "completedTrips": 0,
+            "offeredTrips": 199,
+            "rating": 3.7
+        },
+        "phone": "0357206700",
+        "status": {
+            "currentStatus": 0,
+            "currentTripID": "",
+            "directionX": 0.0,
+            "directionY": 0.0,
+            "freeTime": 1874,
+            "x": 11.4,
+            "y": 67.1
+        },
+        "vehicleType": 1
+    },
+    {
+        "id": "D000100",
+        "licensePlate": "59M7-76939",
+        "name": "Le Xuan E",
+        "performance": {
+            "acceptanceRate": 65.0,
+            "acceptedTrips": 117,
+            "cancellationThreshold": 30.0,
+            "cancellationWarned": false,
+            "cancelledTrips": 19,
+            "completedTrips": 22,
+            "offeredTrips": 180,
+            "rating": 3.6
+        },
+        "phone": "0975837206",
+        "status": {
+            "currentStatus": 2,
+            "currentTripID": "T191937",
+            "directionX": 0.713,
+            "directionY": -0.701,
+            "freeTime": 0,
+            "x": 37.3,
+            "y": 14.1
+        },
+        "vehicleType": 1
+    }
+]
